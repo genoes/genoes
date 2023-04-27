@@ -10,10 +10,10 @@
 - 📚 Certified [Software Carpentries](https://carpentries.org/) Instructor
 
   - Workshops led:
-    - <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></picture> Python
-    - <picture><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="20" height="20"/></picture> Bash
-    - <picture><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="20" height="20"/></picture> Jupyter Notebooks
-    - <picture><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/></picture> SQLite
+    - <picture><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/></picture>Python
+    - <picture><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="20" height="20"/></picture>Bash
+    - <picture><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="20" height="20"/></picture>Jupyter Notebooks/Jupyter Lab
+    - <picture><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/></picture>SQLite
 
 <h3 align="left">Interested in:</h3>
 
