@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geno</h1>
 <h3 align="center">Librarian interested in working in Data Science</h3>
 
-- 🎓 I have a Masters in Library & Information Science from UCLA
+- 🎓 I have a Masters in Library & Information Science from [UCLA](https://seis.ucla.edu/)
 
 - 🔭 I’m currently working as Data Systems Analyst for [UCLA Digital Library Program](https://digital.library.ucla.edu/)
 
@@ -9,6 +9,11 @@
 
 - 📫 How to reach me **gggeeennnooo@duck.com**
 
+<h3 align="left">Interested in:</h3>
+* Data Management
+* Data Curation
+* Data Visualization
+* Outreach & Instruction
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
