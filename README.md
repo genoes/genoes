@@ -15,8 +15,6 @@
     - <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="20" height="20"/> Jupyter Notebooks/Jupyter Lab<br>
     - <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> SQLite
 
-- 📫 How to reach me: **gggeeennnooo@duck.com**
-
 <h3 align="left">Interested in:</h3>
 
 - 🗄️ Data Management
