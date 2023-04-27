@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Geno</h1>
-<h3 align="left">Librarian interested in working in Data Science</h3>
+<h1 align="center">Hi, I'm Geno 😎</h1>
+<h3 align="center">Librarian interested in working in Data Science</h3>
 
 - 🎓 I have a Masters in Library & Information Science from [UCLA](https://seis.ucla.edu/)
 
