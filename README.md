@@ -11,10 +11,10 @@
 
 <h3 align="left">Interested in:</h3>
 
-- Data Management
-- Data Curation
-- Data Visualization
-- Outreach & Instruction
+- 📀 Data Management
+- 📓 Data Curation
+- 📊 Data Visualization
+- 📚 Outreach & Instruction
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
