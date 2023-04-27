@@ -3,7 +3,7 @@
 
 - 🎓 I have a Masters in Library & Information Science from [UCLA](https://seis.ucla.edu/)
 
-- 🔭 I’m currently working as Data Systems Analyst for [UCLA Digital Library Program](https://digital.library.ucla.edu/)
+- 💾 I’m currently working as Data Systems Analyst for [UCLA Digital Library Program](https://digital.library.ucla.edu/)
 
 - 📚 Certified [Carpentries](https://carpentries.org/) Instructor
 
