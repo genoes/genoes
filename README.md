@@ -13,7 +13,7 @@
 
 <h3 align="left">Interested in:</h3>
 
-- 📀 Data Management
+- 🗄️ Data Management
 
 - 📓 Data Curation
 
