@@ -10,6 +10,7 @@
 - 📫 How to reach me **gggeeennnooo@duck.com**
 
 <h3 align="left">Interested in:</h3>
+
 - Data Management
 - Data Curation
 - Data Visualization
