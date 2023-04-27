@@ -8,8 +8,10 @@
 - 💾 I’m currently working as Data Systems Analyst for [UCLA Digital Library Program](https://digital.library.ucla.edu/)
 
 - 📚 Certified [Software Carpentries](https://carpentries.org/) Instructor
+
 -- Workshops lead:
---- - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> Python<br>
+
+--- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> Python<br>
 
 - <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="20" height="20"/> Bash<br>
 
