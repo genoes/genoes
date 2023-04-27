@@ -7,7 +7,7 @@
 
 - 💾 I’m currently working as Data Systems Analyst for [UCLA Digital Library Program](https://digital.library.ucla.edu/)
 
-- 📚 Certified [Carpentries](https://carpentries.org/) Instructor
+- 📚 Certified [Software Carpentries](https://carpentries.org/) Instructor
 
 - 📫 How to reach me **gggeeennnooo@duck.com**
 
