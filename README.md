@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Geno 😎</h1>
-<h3 align="center">Librarian interested in Data Science</h3>
+<h3 align="center">Librarian interested in Data Librarianship</h3>
 <br>
 <h3 align="left">About me:</h3>
 
