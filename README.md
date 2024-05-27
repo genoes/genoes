@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Geno 😎</h1>
-<h3 align="center">Librarian interested in Data Science</h3>
+<h3 align="center">Librarian with an interest in data science and data engineering, I am passionate about harnessing data to enhance research and learning. My focus is on developing and implementing effective data management strategies, fostering data discovery, and ensuring accessibility to support diverse academic and instructional needs.</h3>
 <br>
 <h3 align="left">About me:</h3>
 
@@ -9,13 +9,6 @@
 
 - 📚 Certified [Software Carpentries](https://carpentries.org/) Instructor
 
-
-<h3 align="left">Interested in:</h3>
-
-- 📊 Data Management/Curation/Visualization
-
-- 📚 Outreach & Instruction
-  
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r project" width="55" height="55"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="bash" width="55" height="55"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/> </a> </p>
