@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Geno 😎</h1>
-<h3 align="left">Librarian with an interest in data science and data engineering, I am passionate about harnessing data to enhance research and learning. My focus is on developing and implementing effective data management strategies, fostering data discovery, and ensuring accessibility to support diverse academic and instructional needs.</h3>
+<h3 align="left">Librarian with an interest in data science and data engineering, I am passionate about wrangling data to enhance research and learning. My focus is on developing and implementing effective data management strategies, fostering data discovery, and ensuring accessibility to support diverse academic and instructional needs.</h3>
 <br>
 <h3 align="left">About me:</h3>
 
